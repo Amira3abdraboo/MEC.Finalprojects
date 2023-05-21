@@ -60,15 +60,15 @@ void deposit(int num){
 
 int main() {
 Account user1;
- user1.setName("Mohamed Essam");
+ user1.setName("Amira Abdraboo");
  user1.setAccountNumber(1);
- user1.setBalance(5000);
- user1.setPassword(2023);
+ user1.setBalance(9000);
+ user1.setPassword(1143);
  
  Account user2;
- user2.setName("Asmaa");
+ user2.setName("Sayed");
  user2.setAccountNumber(2);
- user2.setBalance(5000);
+ user2.setBalance(9000);
 
 int password;
 int accnumber;
